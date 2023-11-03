@@ -1,0 +1,1 @@
+print(*[i for i, c in enumerate(input("Zadej větu: ")) if c == 'a'])

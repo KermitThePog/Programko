@@ -1,0 +1,1 @@
+for i in range(32, 107): print(chr(i), chr(i+75), chr(i+149))
